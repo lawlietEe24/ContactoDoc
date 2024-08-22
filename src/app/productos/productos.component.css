@@ -1,0 +1,12 @@
+/* productos.component.css */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    margin: 10px;
+    width: 18rem;
+  }
+  
